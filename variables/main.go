@@ -8,6 +8,7 @@ func main() {
 	var age int = 24
 
 	//method 2: use short variable declaration operator (GO guess the type based on the value)
+	//Note: It works only inside a function, not outside of it.
 	isGo := true
 	score := 98
 
